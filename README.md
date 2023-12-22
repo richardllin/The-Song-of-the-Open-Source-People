@@ -1,5 +1,8 @@
 # 开源人之歌 (The Song of the Open Source People)
 
+[![开源人之歌](https://img.youtube.com/vi/nTNHw43vS4g/maxresdefault.jpg)](https://www.youtube.com/watch?v=nTNHw43vS4g)
+
+
 > 这是一首献给开源人的中文歌曲（很可能是第一首）  
 > 这是一首用开源精神和开放式协作共同创作的作品  
 > 这是一首想让开源人能一起听、一起唱的流行歌曲  

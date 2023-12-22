@@ -1,7 +1,7 @@
 # 开源人之歌 (The Song of the Open Source People)
 
 <a href="https://www.youtube.com/watch?v=nTNHw43vS4g">
-    <img src="https://img.youtube.com/vi/nTNHw43vS4g/maxresdefault.jpg" width="200">
+    <img src="https://img.youtube.com/vi/nTNHw43vS4g/maxresdefault.jpg" width="400">
 </a>
 
 > 这是一首献给开源人的中文歌曲（很可能是第一首）  

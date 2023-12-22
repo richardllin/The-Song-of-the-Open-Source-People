@@ -47,7 +47,7 @@
 
 ---
 
-无论 Richard Stallman，还是 Linus Torvald
+无论 Richard Stallman，还是 Linus Torvald  
 带领着我们，自由与开源，我们心里发着光！
 
 ---
